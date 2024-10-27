@@ -7,13 +7,11 @@ This project provides an in-depth analysis of Blinkit Sales Data, exploring tren
 Quick Commerce is emerging as a popular trend compared to traditional E-Commerce. This analysis dashboard leverages Blinkit sales data to provide comprehensive insights across multiple dimensions including outlet types, customer preferences, and regional performance.
 
 ### Key Metrics
-- **Total Sales**
-- **Average Sales**
-- **Number of Items**
-- **Average Customer Rating**
+- **Total Sales - $1.20 M** | **Average Sales - $141**
+- **Number of Items - 8,523** | **Average Rating - 3.9**
 
-## Power BI Dashboard
-
+# Power BI Dashboard
+![Dashboard](https://github.com/sujitmahapatra/Blinkit-Analysis-Dashboard-PowerBI/blob/88efd31f4fb31f26040fe0d03238d43258aed96d/Blinkit%20Analysis%20Dashboard.png)
 The dashboard uses various visualization techniques for a clear and actionable analysis of the sales data:
 
 - **Donut Charts**
